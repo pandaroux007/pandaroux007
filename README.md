@@ -1,6 +1,6 @@
 ## Hi there, I'm pandaroux007 👋
-📟️ Fan of Arduino and programming in general.
-👍️ Dev C++, Python, a little WEB here and there...
+📟️ Fan of Arduino and programming in general.<br>
+👍️ Dev C++, Python, a little WEB here and there...<br>
 🇫🇷 I'm French, 15 years old.
 
 ## My statistics on GitHub (commits, contributions, issues, and others...)
