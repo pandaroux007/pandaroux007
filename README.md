@@ -29,5 +29,5 @@ And others...
 ### What I would like to learn or deepen
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,bash,linux,rust,cpp,opencv,unreal,regex,mysql,docker,django,bots,blender&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,bash,linux,rust,cpp,opencv,unreal,regex,mysql,docker,django,git,blender&perline=7"/>
 </p>
