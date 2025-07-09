@@ -3,7 +3,7 @@
 👍️ Dev C++, Python, a little WEB here and there...<br>
 🇫🇷 I'm French, 15 years old.
 
-## My statistics on GitHub (commits, contributions, issues, and others...)
+## My statistics on GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pandaroux007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/>
