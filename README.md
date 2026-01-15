@@ -12,7 +12,7 @@
 
 ### Where can you find me?
 - On [Discord](https://discord.com/users/1329483867937050652), where I'm mainly active on French development servers;
-- On [the Arduino forum](https://forum.arduino.cc/u/pandaroux007/summary), mainly in the French-speaking category (don't try to contact me there, my profile is private!);
+- On [the Arduino forum](https://forum.arduino.cc/u/pandaroux007/), mainly in the French-speaking category (don't try to contact me there, my profile is private!);
 - On [YouTube](https://www.youtube.com/@pandaroux007) (I don't post videos, it will probably come when I have more time 🕑️);
 - On [CodinGame](https://www.codingame.com/profile/4c2518e96a4f220e9a055772616c37a99550346), which I play whenever I have a little free time 😉;
 - On [the Mozilla Firefox extensions site](https://addons.mozilla.org/fr/firefox/user/18709290/), where I don't work much but where I'm still active;
