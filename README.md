@@ -5,6 +5,8 @@
 📌 I'm passionate about many other areas so not (quite) dedicated to programming, but I learn a little more every day. I particularly enjoy working in a team. I speak fluent French, and also English, even though I don't speak it fluently; I can manage without a translator.
 
 🫂 I really like contributing to communities and their projects. I especially support lightweight and useful open-source apps, without AI, ads, tracking, or unnecessary and polluting features.
+
+I'm mainly active on Discord (`@_pandaroux007`), the Arduino forum (my [profile](https://forum.arduino.cc/u/pandaroux007/) is private, and I'm only in the French-speaking section), and on [GitHub](https://github.com/pandaroux007), of course. Occasionally [CodinGame](https://www.codingame.com/profile/4c2518e96a4f220e9a055772616c37a99550346) and [the Mozilla Firefox extensions site](https://addons.mozilla.org/fr/firefox/user/18709290/), but I'm often too busy to be active there; I only maintain my browser extension projects. *My [YouTube](https://www.youtube.com/@pandaroux007) account is currently inactive and will remain so until further notice.*
 ___
 <div align="center">
 
@@ -14,8 +16,6 @@ ___
 </div>
 
 ___
-I'm mainly active on Discord (`@_pandaroux007`), the Arduino forum (my [profile](https://forum.arduino.cc/u/pandaroux007/) is private, and I'm only in the French-speaking section), and on [GitHub](https://github.com/pandaroux007), of course. Occasionally [CodinGame](https://www.codingame.com/profile/4c2518e96a4f220e9a055772616c37a99550346) and [the Mozilla Firefox extensions site](https://addons.mozilla.org/fr/firefox/user/18709290/), but I'm often too busy to be active there; I only maintain my browser extension projects. My [YouTube](https://www.youtube.com/@pandaroux007) account is currently inactive and will remain so until further notice.
-
 I have a fairly good grasp of Arduino (PlatformIO, C/C++), as well as python3.<br>
 I know the basics of `git`, HTML5, CSS3, JavaScript, Linux shell (I use Mint), ESP8266/ESP32, and RPi.
 
