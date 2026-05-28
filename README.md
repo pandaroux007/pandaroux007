@@ -22,11 +22,11 @@ I know the basics of `git`, HTML5, CSS3, JavaScript, Linux shell (I use Mint), E
 **I would like to explore or learn more about the following areas** (may no longer be up to date):
 - **Modern C++** (I have, until now, only encountered "C-style" C++ with embedded systems. I do not master the compilation process, libraries etc. outside of the Arduino framework, nor the development practices in "modern" C++).
 
-- **Git** (I use it for GitHub but I'm not comfortable with its primary function, versioning (conflicts, undoing, etc.). Yet it's an essential skill in a team.
+- **Git** (I use it for GitHub but I'm not comfortable with its primary function, versioning (conflicts, undoing, etc.). Yet it's an essential skill in a team).
 
-- Regular expressions (a classic in programming, which I can recognize but neither understand nor construct by hand at the moment)
+- **Regular expressions** (a classic in programming, which I can recognize but neither understand nor construct by hand at the moment)
 
-- SQL (I have some basic knowledge of SQLite but nothing very advanced)
+- **SQL** (I have some basic knowledge of SQLite but nothing very advanced)
 
 - The **Linux system** (mainly more advanced uses of shell, bach, systemd, and server management via SSH)
 
@@ -44,7 +44,7 @@ I know the basics of `git`, HTML5, CSS3, JavaScript, Linux shell (I use Mint), E
     - *Once JS/TS is more or less mastered, I imagine the next step will be Alpine.js, React, Vue.js, Angular, Next.js or who knows what else...*
 
 - **Mobile development**<br>
-  Everyone has a phone in their pocket, and along with the web, it's the second best way to reach people.
+  *Everyone has a phone in their pocket, and along with the web, it's the second best way to reach people.*
   - Kotlin (or Java, or even C++, depending on what is most suitable) for Android (Android Studio)
   - React Native (the other option, it seems to me, if I want to use it with JavaScript/Typescript, and I need to look into Expo)
   - I don't want to learn Objective-C and Swift because I hate the Apple environment 🤮
