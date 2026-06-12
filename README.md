@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2.svg)](https://stand-with-ukraine.pp.ua/)
+
 ![](banner.jpeg)
 
 > 🇫🇷 Just a young French amateur developer.
@@ -57,5 +59,3 @@ I know the basics of `git`, HTML5, CSS3, JavaScript, Linux shell (I use Mint), E
 ___
 - (*Uncertainty*) Rust (I don't know if it's better than something else for the areas that are really useful, so it's only on the "wish list")
 - (*Uncertainty*) AI (understanding how an LLM, or any other form of artificial intelligence requiring training, really works. This could involve developing a mini-model; we'll see if it's too time-consuming or pointless, although it would improve my mathematical knowledge)
-___
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2.svg)](https://stand-with-ukraine.pp.ua/)
